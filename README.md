@@ -1,6 +1,7 @@
 # GLDAS2SHUD - GLDAS数据转SHUD模型工具套件
 
 [![中文](https://img.shields.io/badge/语言-中文-red.svg)](README.md)
+[![English](https://img.shields.io/badge/language-English-blue.svg)](README_EN.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 目录
