@@ -483,7 +483,7 @@ https://disc.gsfc.nasa.gov/datasets/GLDAS_NOAH025_3H_EP_2.1/summary
 
 发现Bug或有改进建议，请通过以下方式联系：
 - GitHub Issues: [https://github.com/yourusername/GLDAS2SHUD/issues](https://github.com/yourusername/GLDAS2SHUD/issues)
-- 电子邮件: jiale,guo@mail.polimi.it
+- 电子邮件: jiale.guo@mail.polimi.it
 
 ### 10.3 贡献代码
 
